@@ -8,13 +8,15 @@ Refactor code for Horiseon Social Solution Services to improve web accessibility
 - Reclassified <div> elements to follow a more semantic flow
 - Fixed missing id for the Search Engine Optimization section, made all links functional
 - Added alt attributes to all images (omitted for icons)
-- Reorganized CSS: commented out and consolidated unnecessary and/or repetitious code, added comments to separate sections, reorganized to follow original flow
+- Reorganized CSS: commented out and consolidated unnecessary and/or repetitious code,
+added comments to separate sections, reorganized to follow original flow
 ```
 
 
 ## Submission
 
 Deployed: https://blindsweatyhansolo.github.io/Horiseon/
+
 GitHub Repo: https://github.com/blindsweatyhansolo/Horiseon
 
 Screenshot:
